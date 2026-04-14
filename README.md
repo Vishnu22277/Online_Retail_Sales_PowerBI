@@ -16,7 +16,7 @@ It provides a comprehensive view of sales performance across **time, geography, 
 ---
 
 ## 🖼️ Dashboard Preview
-![Online Retail Dashboard](retail.png)
+![Online Retail Dashboard](Retail.png)
 
 ---
 
